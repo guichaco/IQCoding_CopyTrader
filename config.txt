@@ -1,0 +1,12 @@
+[GERAL]
+paridade = EURUSD
+valor_entrada = 20
+timeframe = 1
+ 
+martingale = N
+sorosgale = S
+niveis = 2
+
+valor_minimo = 0
+filtro_pais = todos
+filtro_top_traders = 0
